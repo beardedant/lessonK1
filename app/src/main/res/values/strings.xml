@@ -2,4 +2,7 @@
     <string name="app_name">lessonK1</string>
     <string name="hello_world">Hello World!</string>
     <string name="button_text_click">click</string>
+    <string name="button_copy">copy</string>
+    <string name="counter_from_data_class">counter from data class</string>
+    <string name="data_from_copy_data_class">data from copy data class</string>
 </resources>
